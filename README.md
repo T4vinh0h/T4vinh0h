@@ -33,20 +33,10 @@
 </p>
 
 Sou um **Full Stack Developer** com coração no **Front-end e Design**. Minha missão é transformar ideias em interfaces bonitas, otimizadas e totalmente responsivas. Acredito que a tecnologia deve ser simples de entender e poderosa para quem usa.
+Atualmente, **estudo Programação Web, Aplicativos e Lógica no Senac RS**, colocando esse conhecimento em prática por meio de projetos que contribuem para meu crescimento profissional. Tenho um **perfil criativo, analítico e detalhista**, além de boa comunicação interpessoal e uma busca constante por evolução. Meu objetivo é aprimorar minhas habilidades e crescer na área, desenvolvendo **projetos estratégicos e elaborados**. 
 
-- 🎓 Estudando Programação Web, App e Lógica no **Senac RS** (Desde Março/2026).
-- 🔭 Focado no desenvolvimento de **projetos específicos** e autorais.
-- 🎨 Apaixonado por **UI/UX, Performance e Responsividade**.
-- 💡 Busco sempre a simplicidade técnica: se não é simples de explicar, ainda não está pronto.
- <h4>🌟 Minha Personalidade</h4>
-      <ul>
-        <li>🗣️ Ótima comunicação interpessoal</li>
-        <li>☕ Viciado em café sem açúcar</li>
-        <li>🏀 Jogador de Basquete</li>
-        <li>🎸 Guitarra nas horas vagas</li>
-        <li>🐾 Dono do <b>Toddy</b> (cachorro)</li>
-      </ul>
----
+Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, como o basquete, a música com a guitarra nas horas vagas, o café sem açúcar que já virou rotina e a companhia do Toddy, meu cachorro, que faz parte do meu dia a dia.</p>
+
 
 ## 🏆 Habilidades
 
