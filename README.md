@@ -15,10 +15,6 @@
 <a href="URL_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-<!-- Threads -->
-<a href="URL_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" />
-</a>
 <!-- TikTok -->
 <a href="URL_AQUI" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
