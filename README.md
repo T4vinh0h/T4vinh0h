@@ -18,7 +18,14 @@ Sou um **Full Stack Developer** com coração no **Front-end e Design**. Minha m
 - 🔭 Focado no desenvolvimento de **projetos específicos** e autorais.
 - 🎨 Apaixonado por **UI/UX, Performance e Responsividade**.
 - 💡 Busco sempre a simplicidade técnica: se não é simples de explicar, ainda não está pronto.
-
+ <h4>🌟 Minha Personalidade</h4>
+      <ul>
+        <li>🗣️ Ótima comunicação interpessoal</li>
+        <li>☕ Viciado em café sem açúcar</li>
+        <li>🏀 Jogador de Basquete</li>
+        <li>🎸 Guitarra nas horas vagas</li>
+        <li>🐾 Dono do <b>Toddy</b> (cachorro)</li>
+      </ul>
 ---
 
 ## 🏆 Habilidades
@@ -42,14 +49,21 @@ Sou um **Full Stack Developer** com coração no **Front-end e Design**. Minha m
 + <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UX Strategy" /></a>
 + <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Growth" /></a>
 + <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Liderança_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança" /></a>
-      <h4>🌟 Minha Personalidade</h4>
-      <ul>
-        <li>🗣️ Ótima comunicação interpessoal</li>
-        <li>☕ Viciado em café sem açúcar</li>
-        <li>🏀 Jogador de Basquete</li>
-        <li>🎸 Guitarra nas horas vagas</li>
-        <li>🐾 Dono do <b>Toddy</b> (cachorro)</li>
-      </ul>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Neuromarketing_Applied-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Neuromarketing" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Glassmorphism_Specialist-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Glassmorphism" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Dark_Design_Aesthetics-121212?style=for-the-badge&logo=pnpm&logoColor=white" alt="Dark Design" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Fullstack_Mastery-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Fullstack" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/TypeScript_Architecture-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/SQL_Data_Modeling-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/JWT_%26_Security_First-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Security" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Branding" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="UX" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Data--Driven_Decision-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Social_Impact_Dev-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Social Impact" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Content_Strategist-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Content" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Creative_Direction-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Creative" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/System_Scalability-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Scalability" /></a>
++ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solver" /></a>
     </td>
     <td valign="top">
       <h4>💻 Desenvolvimento Web Full Stack</h4>
@@ -60,17 +74,35 @@ Sou um **Full Stack Developer** com coração no **Front-end e Design**. Minha m
       <img alt="MySQL" title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
       <img alt="Git" title="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
       <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
+      <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+      <img alt="VS Code" title="VS Code" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original-wordmark.svg" />&nbsp;
       <br/><br/>
       <h4>📖 Aprendendo</h4>
       <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
        <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+      <img alt="blender" title="blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />
+      <img alt="blender" title="blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+      <img alt="blender" title="blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+      <img alt="blender" title="blender" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original-wordmark.svg" />
       <br/><br/>
       <h4>👾 Interesse Futuro</h4>
       <img alt="Next.js" title="Next.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;
       <img alt="Tailwind CSS" title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
       <img alt="MongoDB" title="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />&nbsp;
-      <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
-      <img alt="TypeScript" title="TypeScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+      <img alt="go" title="go" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+      <img alt="express" title="express" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+      <img alt="csharp" title="csharp" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+      <img alt="react" title="react" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+      <img alt="lua" title="lua" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+      <img alt="django" title="django" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+      <img alt="angularjs" title="angularjs" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+      <img alt="laravel" title="laravel" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+      <img alt="kotlin" title="kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original-wordmark.svg" />
+      <img alt="kotlin" title="kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />    
+      <img alt="kotlin" title="kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+      <img alt="kotlin" title="kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+      <img alt="kotlin" title="kotlin" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+      <img alt="kotlin" title="kotlin" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
     </td>
   </tr>
 </table>
