@@ -1,5 +1,4 @@
 # 👋 Olá, eu sou o **TavDev**! 🏀🎸
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portf%C3%B3lio!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
@@ -32,7 +31,7 @@
 </a>
 </p>
 
-Sou um **Full Stack Developer** com coração no **Front-end e Design**. Minha missão é transformar ideias em interfaces bonitas, otimizadas e totalmente responsivas. Acredito que a tecnologia deve ser simples de entender e poderosa para quem usa.
+Sou um **Full Stack Developer** com coração no **Front-end e Design**. Acredito que o **aprendizado contínuo(lifelong learning)** fortalece qualquer programador.
 Atualmente, **estudo Programação Web, Aplicativos e Lógica no Senac RS**, colocando esse conhecimento em prática por meio de projetos que contribuem para meu crescimento profissional. Tenho um **perfil criativo, analítico e detalhista**, além de boa comunicação interpessoal e uma busca constante por evolução. Meu objetivo é aprimorar minhas habilidades e crescer na área, desenvolvendo **projetos estratégicos e elaborados**. 
 
 Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, como o basquete, a música com a guitarra nas horas vagas, o café sem açúcar que já virou rotina e a companhia do Toddy, meu cachorro, que faz parte do meu dia a dia.</p>
@@ -52,28 +51,28 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
   <tr>
     <td valign="top">
 <h4>🎯 Soft Skills & Estratégia</h4>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevEx" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Engenharia_de_plataforma-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Platform Engineering" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Mentoria-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Mentoring" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Arquitetura-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="Architecture" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UX Strategy" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Growth" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Liderança_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Neuromarketing_Applied-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Neuromarketing" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Glassmorphism_Specialist-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Glassmorphism" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Dark_Design_Aesthetics-121212?style=for-the-badge&logo=pnpm&logoColor=white" alt="Dark Design" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Fullstack_Mastery-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Fullstack" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/TypeScript_Architecture-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/SQL_Data_Modeling-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/JWT_%26_Security_First-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Security" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Branding" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="UX" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Data--Driven_Decision-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Social_Impact_Dev-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Social Impact" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Content_Strategist-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Content" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Creative_Direction-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Creative" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/System_Scalability-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Scalability" /></a>
-+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solver" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevEx" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Engenharia_de_plataforma-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Platform Engineering" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Mentoria-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Mentoring" /></a>
+<a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Arquitetura-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="Architecture" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UX Strategy" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Growth" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Liderança_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Neuromarketing_Applied-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Neuromarketing" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Glassmorphism_Specialist-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Glassmorphism" /></a>
+<a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Dark_Design_Aesthetics-121212?style=for-the-badge&logo=pnpm&logoColor=white" alt="Dark Design" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Fullstack_Mastery-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Fullstack" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/TypeScript_Architecture-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/SQL_Data_Modeling-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/JWT_%26_Security_First-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Security" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Branding" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="UX" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Data--Driven_Decision-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Social_Impact_Dev-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Social Impact" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Content_Strategist-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Content" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Creative_Direction-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Creative" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/System_Scalability-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Scalability" /></a>
+ <a href="https://github.com/T4vinh0h"><img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solver" /></a>
     </td>
     <td valign="top">
       <h4>💻 Desenvolvimento Web Full Stack</h4>
@@ -120,30 +119,29 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
 ---
 
 ## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=T4vinh0h&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10&show=reviews,discussions" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T4vinh0h&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="Most Used Languages" height="180" />
-</p>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vinh0h&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=T4vinh0h&theme=tokyonight&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=T4vinh0h&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
+  </a>
 </p>
 
 ---
-
-## 🐍 Contribuições
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/T4vinh0h/T4vinh0h/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
-
 <p align="center">
   <i>"Se você não pode explicar algo de maneira simples, você não entendeu bem."</i> <br>
   <b>— Albert Einstein</b>
 </p>
+
+
+
+
+
