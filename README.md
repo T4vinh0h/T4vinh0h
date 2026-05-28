@@ -2,7 +2,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portf%C3%B3lio!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
- 
 <p align="left">
   <a href="URL_DO_SEU_SITE" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
@@ -18,21 +17,24 @@
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
 <!-- TikTok -->
-<a href="URL_AQUI" target="_blank">
+<a href="otárioBR🐕#789" target="_blank">
   <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
 </a>
 <!-- Discord -->
-<a href="URL_AQUI" target="_blank">
+<a href="https://discordapp.com/users/334109725601824768" target="_blank">
   <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <!-- Email -->
-<a href="mailto:seuemail@exemplo.com" target="_blank">
+<a href="05692969009@senacrs.edu.br" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
- 
-Sou um **Full Stack Developer** com coração no **Front-end e Design**. Acredito que o **aprendizado contínuo(lifelong learning)** fortalece qualquer programador.
-Atualmente, **estudo Programação Web, Aplicativos e Lógica no Senac RS**, colocando esse conhecimento em prática por meio de projetos que contribuem para meu crescimento profissional. Tenho um **perfil criativo, analítico e detalhista**, além de boa comunicação interpessoal e uma busca constante por evolução. Meu objetivo é aprimorar minhas habilidades e crescer na área, desenvolvendo **projetos estratégicos e elaborados**. 
+
+
+ **`Desenvolvedor FullStack`**
+ <br>
+Sou um **Desenvolvedor** com coração no **COMUNICAÇÃO ÁUDIO-VISUAL (UX/UI, MOTION & FRONT-END)**. Acredito que o **aprendizado contínuo(lifelong learning)** fortalece qualquer conhecimento.
+Atualmente, **estudo Programação para Web, Aplicativos e Lógica no Senac RS**, no momento, priorizo elaborar o ambiente ideal, conforme as necessidades do projeto. Como pessoa, tenho um **perfil criativo, analítico e detalhista**. Meu objetivo é aprimorar minhas habilidades e crescer na área(COMUNICAÇÃO ÁUDIO-VISUAL) , desenvolvendo **PROJETOS ESTRATÉGICOS COM COMPROMETIMENTO E COLABORAÇÃO**. 
  
 Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, como o basquete, a música com a guitarra nas horas vagas, o café sem açúcar que já virou rotina e a companhia do Toddy, meu cachorro, que faz parte do meu dia a dia.</p>
  
@@ -68,11 +70,10 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
       <img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solver" />
     </td>
     <td align="center" valign="top" width="50%">
-      <h2>💻 HARD SKILLS & TECH</h2>
-      <br />
-      <h4>🚀 Desenvolvimento Full Stack</h4>
+      <h2> HARD SKILLS & TECH</h2>
+      <h3>💻📱 Desenvolvimento Full Stack</h4>
       <p align="center">
-        <img alt="HTML5" title="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
+        <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
         <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
         <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
         <img alt="Node.js" title="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
@@ -89,33 +90,31 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
         <img alt="Trello" title="Trello" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
       </p>
       <hr />
-      <h4>📖 Aprendendo & Interesses</h4>
+      <h3>📖 Aprendendo & Interesses</h4>
       <p align="center">
-        <b>💬 Linguagens:</b><br />
-        <img alt="TypeScript" title="TypeScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
-        <img alt="Python" title="Python" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-        <img alt="Go" title="Go" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;
-        <img alt="C#" title="C#" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
-        <img alt="Lua" title="Lua" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;
-        <img alt="Kotlin" title="Kotlin" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
-        <img alt="Rust" title="Rust" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+        <p>💬🧩 Linguagens, Frameworks & Engines:</p>
+        <img alt="TypeScript" title="TypeScript" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
+        <img alt="Python" title="Python" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
+        <img alt="Go" title="Go" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;
+        <img alt="C#" title="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
+        <img alt="Lua" title="Lua" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;
+        <img alt="Kotlin" title="Kotlin" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
+        <img alt="Rust" title="Rust" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
+       <br>
+      <img alt="Unity" title="Unity" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />&nbsp;
+        <img alt="Tailwind CSS" title="Tailwind CSS" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
+        <img alt="Django" title="Django" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;
+        <img alt="Angular" title="Angular" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />&nbsp;
+        <img alt="Laravel" title="Laravel" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
+        <img alt="React" title="React" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
+        <img alt="MongoDB" title="MongoDB" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
       </p>
       <p align="center">
-        <b>🎨 Design e Criação:</b><br />
-        <img alt="Blender" title="Blender" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />&nbsp;
-        <img alt="Canva" title="Canva" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp;
-        <img alt="After Effects" title="After Effects" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />&nbsp;
-        <img alt="Photoshop" title="Photoshop" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
-      </p>
-      <p align="center">
-        <b>🧩 Frameworks & Engines:</b><br />
-        <img alt="Unity" title="Unity" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />&nbsp;
-        <img alt="Tailwind CSS" title="Tailwind CSS" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-        <img alt="Django" title="Django" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;
-        <img alt="Angular" title="Angular" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />&nbsp;
-        <img alt="Laravel" title="Laravel" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
-        <img alt="React" title="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
-        <img alt="MongoDB" title="MongoDB" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+        <p>🎨 Design e Criação:</p>
+        <img alt="Blender" title="Blender" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />&nbsp;
+        <img alt="Canva" title="Canva" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp;
+        <img alt="After Effects" title="After Effects" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />&nbsp;
+        <img alt="Photoshop" title="Photoshop" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
       </p>
     </td>
   </tr>
