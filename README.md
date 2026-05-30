@@ -119,10 +119,10 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
 <table border="0" cellspacing="0" cellpadding="0" style="border: none;">
   <tr>
     <td align="center" style="border: none;">
-      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6" height="250" /></a>
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6" height="350" /></a>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="250" />
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="350" />
     </td>
   </tr>
 </table>
