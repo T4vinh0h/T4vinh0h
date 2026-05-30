@@ -116,11 +116,10 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
 ---
  
 ## 📊 Estatísticas do GitHub
+
 <p align="center">
-  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T4vinh0h&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="T4vinh0h's Top Languages" height="100" /> --->
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6)](https://git.io/streak-stats)
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" widht="300"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6" height="250" /></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="250" />
 </p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
