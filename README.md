@@ -33,42 +33,41 @@
 
  **`Desenvolvedor FullStack`**
  <br>
-Sou um **Desenvolvedor** com coração no **COMUNICAÇÃO ÁUDIO-VISUAL (UX/UI, MOTION & FRONT-END)**. Acredito que o **aprendizado contínuo(lifelong learning)** fortalece qualquer conhecimento.
-Atualmente, **estudo Programação para Web, Aplicativos e Lógica no Senac RS**, no momento, priorizo elaborar o ambiente ideal, conforme as necessidades do projeto. Como pessoa, tenho um **perfil criativo, analítico e detalhista**. Meu objetivo é aprimorar minhas habilidades e crescer na área(COMUNICAÇÃO ÁUDIO-VISUAL) , desenvolvendo **PROJETOS ESTRATÉGICOS COM COMPROMETIMENTO E COLABORAÇÃO**. 
- 
-Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, como o basquete, a música com a guitarra nas horas vagas, o café sem açúcar que já virou rotina e a companhia do Toddy, meu cachorro, que faz parte do meu dia a dia.</p>
- 
+Sou um desenvolvedor focado em **comunicação audiovisual (UX/UI, Motion e Front-End)**, com **perfil criativo, analítico e detalhista**. Atualmente **estudando Programação Web e Aplicativos no Senac RS**, sou um entusiasta do lifelong learning e encaro a resolução de problemas como combustível para evoluir. **Busco colaborar em projetos estratégicos, entregando soluções com comprometimento e muita análise**.
+
+Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem açúcar e a companhia do meu cachorro, o Toddy.
  
 ## 🏆 Habilidades
 
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-      <h2>🎯 SOFT SKILLS & ESTRATÉGIA</h2>
-      <br />
-      <img src="https://img.shields.io/badge/Developer_Experience-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" alt="DevEx" />
-      <img src="https://img.shields.io/badge/Engenharia_de_plataforma-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" alt="Platform Engineering" />
-      <img src="https://img.shields.io/badge/Mentoria-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Mentoring" />
-      <img src="https://img.shields.io/badge/Arquitetura-FFD700?style=for-the-badge&logo=diagrams.net&logoColor=black" alt="Architecture" />
-      <img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="UX Strategy" />
-      <img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Growth" />
-      <img src="https://img.shields.io/badge/Liderança_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança" />
-      <img src="https://img.shields.io/badge/Neuromarketing_Applied-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Neuromarketing" />
-      <img src="https://img.shields.io/badge/Glassmorphism_Specialist-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Glassmorphism" />
-      <img src="https://img.shields.io/badge/Dark_Design_Aesthetics-121212?style=for-the-badge&logo=pnpm&logoColor=white" alt="Dark Design" />
-      <img src="https://img.shields.io/badge/Fullstack_Mastery-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Fullstack" />
-      <img src="https://img.shields.io/badge/TypeScript_Architecture-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TS" />
-      <img src="https://img.shields.io/badge/SQL_Data_Modeling-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/JWT_%26_Security_First-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Security" />
-      <img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Branding" />
-      <img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="UX" />
-      <img src="https://img.shields.io/badge/Data--Driven_Decision-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Data" />
-      <img src="https://img.shields.io/badge/Social_Impact_Dev-FF6B6B?style=for-the-badge&logo=heart&logoColor=white" alt="Social Impact" />
-      <img src="https://img.shields.io/badge/Content_Strategist-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Content" />
-      <img src="https://img.shields.io/badge/Creative_Direction-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Creative" />
-      <img src="https://img.shields.io/badge/System_Scalability-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Scalability" />
-      <img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Solver" />
-    </td>
+     <h2>🎯 SOFT SKILLS & ESTRATÉGIA</h2>
+<br />
+
+<!-- Liderança e Processos -->
+<img src="https://img.shields.io/badge/Liderança_Técnica_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança e Metodologias Ágeis" />
+<img src="https://img.shields.io/badge/Developer_Experience_(DevEx)-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" alt="Foco em Produtividade do Desenvolvedor" />
+<img src="https://img.shields.io/badge/Mentoria_%26_Tech_Sharing-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Desenvolvimento de Pessoas e Mentoria" />
+<img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Resolução Complexa de Problemas" />
+
+<!-- Visão de Negócio, Produto e Marketing -->
+<img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Estratégia de Experiência do Usuário" />
+<img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="Foco em Conversão e Retenção do Usuário" />
+<img src="https://img.shields.io/badge/Data--Driven_Product-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Tomada de Decisão Baseada em Dados" />
+<img src="https://img.shields.io/badge/Direção_Criativa-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Identidade Visual e Direção de Arte" />
+<img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Estratégia de Crescimento de Produto" />
+<img src="https://img.shields.io/badge/Neuromarketing_Aplicado-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Comportamento do Consumidor e Conversão" />
+
+<!-- Design Avançado e Estética -->
+<img src="https://img.shields.io/badge/Design_Aesthetics_(Dark%2FGlass)-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Interface Avançada e Estética Premium" />
+<img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Posicionamento e Identidade de Marca" />
+
+<!-- Engenharia e Arquitetura de Alto Nível -->
+<img src="https://img.shields.io/badge/Visão_Sistêmica_End--to--End-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Domínio do Ecossistema Fullstack" />
+<img src="https://img.shields.io/badge/Arquitetura_Escalável-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Desenvolvimento de Sistemas Escaláveis" />
+<img src="https://img.shields.io/badge/Security_First_Mindset-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Arquitetura de Software Segura" />
+<img src="https://img.shields.io/badge/Modelagem_de_Dados_Estratégica-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Estruturação de Dados Eficiente" />
     <td align="center" valign="top" width="50%">
       <h2> HARD SKILLS & TECH</h2>
       <h3>💻📱 Desenvolvimento Full Stack</h4>
@@ -89,25 +88,19 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
         <img alt="Notion" title="Notion" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp;
         <img alt="Trello" title="Trello" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
       </p>
-      <hr />
+      <hr/>
       <h3>📖 Aprendendo & Interesses</h4>
       <p align="center">
         <p>💬🧩 Linguagens, Frameworks & Engines:</p>
         <img alt="TypeScript" title="TypeScript" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
         <img alt="Python" title="Python" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
         <img alt="Go" title="Go" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;
-        <img alt="C#" title="C#" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />&nbsp;
         <img alt="Lua" title="Lua" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;
         <img alt="Kotlin" title="Kotlin" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
-        <img alt="Rust" title="Rust" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" />
        <br>
       <img alt="Unity" title="Unity" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />&nbsp;
-        <img alt="Tailwind CSS" title="Tailwind CSS" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />&nbsp;
-        <img alt="Django" title="Django" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" />&nbsp;
-        <img alt="Angular" title="Angular" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />&nbsp;
         <img alt="Laravel" title="Laravel" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
         <img alt="React" title="React" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
-        <img alt="MongoDB" title="MongoDB" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
       </p>
       <p align="center">
         <p>🎨 Design e Criação:</p>
@@ -123,16 +116,13 @@ Além da tecnologia, também carrego interesses que fazem parte de quem eu sou, 
 ---
  
 ## 📊 Estatísticas do GitHub
- 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-</p>
- 
-<p align="center">
+  <!-- <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=T4vinh0h&layout=compact&theme=tokyonight&border_radius=10&hide=css,html" alt="T4vinh0h's Top Languages" height="100" /> --->
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6)](https://git.io/streak-stats)
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" widht="300"/>
   <img src="https://github-profile-trophy.vercel.app/?username=T4vinh0h&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
- 
- 
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
