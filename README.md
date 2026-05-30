@@ -121,7 +121,6 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
   
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6)](https://git.io/streak-stats)
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" widht="300"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=T4vinh0h&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
