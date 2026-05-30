@@ -116,11 +116,16 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
 ---
  
 ## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6" height="250" /></a>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="250" />
-</p>
+<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;">
+      <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=T4vinh0h&theme=dark&border_radius=6" height="250" /></a>
+    </td>
+    <td align="center" style="border: none;">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="250" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
