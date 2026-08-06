@@ -72,42 +72,21 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
       <h2> HARD SKILLS & TECH</h2>
       <h3>💻📱 Desenvolvimento Full Stack</h4>
       <p align="center">
-        <img alt="HTML5" title="HTML5" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />&nbsp;
-        <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />&nbsp;
-        <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />&nbsp;
-        <img alt="Node.js" title="Node.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />&nbsp;
-        <img alt="MySQL" title="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />&nbsp;
-        <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />&nbsp;
-        <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,git,vscode&perline=7" />
         <br /><br />
-        <img alt="Bootstrap" title="Bootstrap" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />&nbsp;
-        <img alt="Knex.js" title="Knex.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/knexjs/knexjs-original.svg" />&nbsp;
-        <img alt="Express" title="Express" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />&nbsp;
-        <img alt="Next.js" title="Next.js" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />&nbsp;
-        <img alt="NPM" title="NPM" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />&nbsp;
-        <img alt="Notion" title="Notion" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />&nbsp;
-        <img alt="Trello" title="Trello" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+        <img src="https://skillicons.dev/icons?i=bootstrap,express,nextjs,npm,notion,trello&perline=6" />
       </p>
       <hr/>
       <h3>📖 Aprendendo & Interesses</h4>
       <p align="center">
         <p>💬🧩 Linguagens, Frameworks & Engines:</p>
-        <img alt="TypeScript" title="TypeScript" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />&nbsp;
-        <img alt="Python" title="Python" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />&nbsp;
-        <img alt="Go" title="Go" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />&nbsp;
-        <img alt="Lua" title="Lua" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />&nbsp;
-        <img alt="Kotlin" title="Kotlin" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" />&nbsp;
-       <br>
-      <img alt="Unity" title="Unity" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />&nbsp;
-        <img alt="Laravel" title="Laravel" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />&nbsp;
-        <img alt="React" title="React" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />&nbsp;
+        <img src="https://skillicons.dev/icons?i=ts,python,go,lua,kotlin&perline=5" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=unity,laravel,react&perline=3" />
       </p>
       <p align="center">
         <p>🎨 Design e Criação:</p>
-        <img alt="Blender" title="Blender" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" />&nbsp;
-        <img alt="Canva" title="Canva" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />&nbsp;
-        <img alt="After Effects" title="After Effects" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />&nbsp;
-        <img alt="Photoshop" title="Photoshop" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+        <img src="https://skillicons.dev/icons?i=blender,ps,ai,ae,figma&perline=5" />
       </p>
     </td>
   </tr>
@@ -122,7 +101,7 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&border_radius=6" height="350" /></a>
     </td>
     <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="350" />
+      <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="350" />
     </td>
   </tr>
 </table>
