@@ -122,7 +122,7 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
       <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&border_radius=6" height="350" /></a>
     </td>
     <td align="center" style="border: none;">
-        <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true" height="350">
+        <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="350" />
     </td>
   </tr>
 </table>
