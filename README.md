@@ -96,8 +96,8 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
  
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
+  <img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vinh0h&theme=dark&hide_border=true&layout=compact" height="180" />
 </div>
 <p align="center">
