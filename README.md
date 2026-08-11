@@ -95,20 +95,13 @@ Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem
 ---
  
 ## 📊 Estatísticas do GitHub
-<table border="0" cellspacing="0" cellpadding="0" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&border_radius=6" height="350" /></a>
-    </td>
-    <td align="center" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="350" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vinh0h&theme=dark&hide_border=true&layout=compact" height="180" />
+</div>
 <p align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
-  </a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
 </p>
  
 ---
