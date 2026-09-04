@@ -33,9 +33,9 @@
 
  **`Desenvolvedor FullStack`**
  <br>
-Sou um desenvolvedor focado em **comunicação audiovisual (UX/UI, Motion e Front-End)**, com **perfil criativo, analítico e detalhista**. Atualmente **estudando Programação Web e Aplicativos no Senac RS**, sou um entusiasta do lifelong learning e encaro a resolução de problemas como combustível para evoluir. **Busco colaborar em projetos estratégicos, entregando soluções com comprometimento e muita análise**.
+Sou um desenvolvedor focado em **comunicação audiovisual (UX/UI, Motion e Front-End)**, com **perfil criativo, analítico e detalhista**. Atualmente **estudando Programação Web e Aplicativos no Senac RS**, sou um entusiasta do lifelong learning. **Busco colaborar em projetos focados em desenvolvimento FullStack**.
 
-Nas horas vagas, divido meu tempo entre o basquete, a guitarra, um bom café sem açúcar e a companhia do meu cachorro, o Toddy.
+Nas horas vagas, divido meu tempo entre games, basquete, guitarra, Inglês, um bom café e a companhia do meu cachorro: Toddy🐶🦴.
  
 ## 🏆 Habilidades
 
