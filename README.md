@@ -75,7 +75,9 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
     </td>
   </tr>
 </table>
+
 ---
+
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
