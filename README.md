@@ -22,7 +22,7 @@
 
 **`Desenvolvedor Web Júnior em Formação`**
 <br>
-Sou estudante de **Tecnologia em Desenvolvimento de Sistemas no Senac RS**, focado em **desenvolvimento web e aplicações desktop**. Tenho perfil **criativo, analítico e detalhista**, com olho para **UX/UI e prototipagem** — o que me permite construir interfaces não só funcionais, mas bem resolvidas.
+Sou estudante de **Tecnologia em Desenvolvimento de Sistemas no Senac RS**, focado em **desenvolvimento web e aplicações desktop**. Tenho perfil **criativo, analítico e detalhista**, com olho para **UX/UI e prototipagem** — o que me permite construir interfaces voltadas ao usuário(cliente) . Sou um entusiasta do lifelong learning. **Busco colaborar em projetos focados em desenvolvimento FullStack**.
 
 Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um bom café e a companhia do meu cachorro: Toddy 🐶🦴.
 
