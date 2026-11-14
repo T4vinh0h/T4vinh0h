@@ -2,98 +2,103 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bem-vindo%20ao%20meu%20Portf%C3%B3lio!&fontSize=50&animation=fadeIn&fontAlignY=38" />
 </p>
-<p align="left">
-  <a href="URL_DO_SEU_SITE" target="_blank">
-  <img src="https://img.shields.io/badge/Portfólio-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
-</a>
+<p align="center">
+  <a href="https://github.com/T4vinh0h/Portfolio_Dev_OtavioSantos" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/ot%C3%A1vio-azevedo-dos-santos-18a79a38b/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
- </a>
+  </a>
   <a href="https://instagram.com/ot4vio_azs4._/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <!-- YouTube -->
-<a href="URL_AQUI" target="_blank">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-<!-- TikTok -->
-<a href="otárioBR🐕#789" target="_blank">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
-<!-- Discord -->
-<a href="https://discordapp.com/users/334109725601824768" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-<!-- Email -->
-<a href="05692969009@senacrs.edu.br" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+  <a href="https://discordapp.com/users/334109725601824768" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="mailto:05692969009@senacrs.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
+**`Desenvolvedor Web Júnior em Formação`**
+<br>
+Sou estudante de **Tecnologia em Desenvolvimento de Sistemas no Senac RS**, focado em **desenvolvimento web e aplicações desktop**. Tenho perfil **criativo, analítico e detalhista**, com olho para **UX/UI e prototipagem** — o que me permite construir interfaces não só funcionais, mas bem resolvidas.
 
- **`Desenvolvedor FullStack`**
- <br>
-Sou um desenvolvedor focado em **comunicação audiovisual (UX/UI, Motion e Front-End)**, com **perfil criativo, analítico e detalhista**. Atualmente **estudando Programação Web e Aplicativos no Senac RS**, sou um entusiasta do lifelong learning. **Busco colaborar em projetos focados em desenvolvimento FullStack**.
+Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um bom café e a companhia do meu cachorro: Toddy 🐶🦴.
 
-Nas horas vagas, divido meu tempo entre games, basquete, guitarra, Inglês, um bom café e a companhia do meu cachorro: Toddy🐶🦴.
- 
+---
+
 ## 🏆 Habilidades
 
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
-     <h2>🎯 SOFT SKILLS & ESTRATÉGIA</h2>
-<br />
-
-<!-- Liderança e Processos -->
-<img src="https://img.shields.io/badge/Liderança_Técnica_%26_Agile-008080?style=for-the-badge&logo=trello&logoColor=white" alt="Liderança e Metodologias Ágeis" />
-<img src="https://img.shields.io/badge/Developer_Experience_(DevEx)-FF69B4?style=for-the-badge&logo=dev.to&logoColor=white" alt="Foco em Produtividade do Desenvolvedor" />
-<img src="https://img.shields.io/badge/Mentoria_%26_Tech_Sharing-00BFA5?style=for-the-badge&logo=google-classroom&logoColor=white" alt="Desenvolvimento de Pessoas e Mentoria" />
-<img src="https://img.shields.io/badge/Problem_Solver_Mindset-607D8B?style=for-the-badge&logo=blueprint&logoColor=white" alt="Resolução Complexa de Problemas" />
-
-<!-- Visão de Negócio, Produto e Marketing -->
-<img src="https://img.shields.io/badge/UX%2FUI_Strategy-000000?style=for-the-badge&logo=figma&logoColor=white" alt="Estratégia de Experiência do Usuário" />
-<img src="https://img.shields.io/badge/High--Conversion_UX-FF5722?style=for-the-badge&logo=hotjar&logoColor=white" alt="Foco em Conversão e Retenção do Usuário" />
-<img src="https://img.shields.io/badge/Data--Driven_Product-00AFF0?style=for-the-badge&logo=google-analytics&logoColor=white" alt="Tomada de Decisão Baseada em Dados" />
-<img src="https://img.shields.io/badge/Direção_Criativa-FFD700?style=for-the-badge&logo=canva&logoColor=black" alt="Identidade Visual e Direção de Arte" />
-<img src="https://img.shields.io/badge/Growth_%26_Marketing-E4405F?style=for-the-badge&logo=speedtest&logoColor=white" alt="Estratégia de Crescimento de Produto" />
-<img src="https://img.shields.io/badge/Neuromarketing_Aplicado-FF0000?style=for-the-badge&logo=target&logoColor=white" alt="Comportamento do Consumidor e Conversão" />
-
-<!-- Design Avançado e Estética -->
-<img src="https://img.shields.io/badge/Design_Aesthetics_(Dark%2FGlass)-7B61FF?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" alt="Interface Avançada e Estética Premium" />
-<img src="https://img.shields.io/badge/Brand_Identity_Strategy-E10098?style=for-the-badge&logo=brandfolder&logoColor=white" alt="Posicionamento e Identidade de Marca" />
-
-<!-- Engenharia e Arquitetura de Alto Nível -->
-<img src="https://img.shields.io/badge/Visão_Sistêmica_End--to--End-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Domínio do Ecossistema Fullstack" />
-<img src="https://img.shields.io/badge/Arquitetura_Escalável-00C7B7?style=for-the-badge&logo=airtable&logoColor=white" alt="Desenvolvimento de Sistemas Escaláveis" />
-<img src="https://img.shields.io/badge/Security_First_Mindset-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" alt="Arquitetura de Software Segura" />
-<img src="https://img.shields.io/badge/Modelagem_de_Dados_Estratégica-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Estruturação de Dados Eficiente" />
+      <h2>✅ Domínio</h2>
+      <h3>💻 Desenvolvimento</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,npm,bootstrap,git,vscode&perline=8" />
+      </p>
+      <h3>🖥️ Desktop & Dados</h3>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=mysql,electron&perline=4" />
+      </p>
+      <h3>🛠️ Ferramentas & Produtividade</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Microsoft_Office_%26_Office_365-217346?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Pacote Office e Office 365" />
+        <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+        <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+      </p>
+    </td>
     <td align="center" valign="top" width="50%">
-      <h2> HARD SKILLS & TECH</h2>
-      <h3>💻📱 Desenvolvimento Full Stack</h4>
+      <h2>🚀 Em Aprendizado</h2>
+      <h3>💻 Linguagens & Frameworks</h3>
       <p align="center">
-        <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,mysql,git,vscode&perline=7" />
-        <br /><br />
-        <img src="https://skillicons.dev/icons?i=bootstrap,express,nextjs,npm,notion,trello&perline=6" />
+        <img src="https://skillicons.dev/icons?i=react,angular,java,python,flutter,tailwind&perline=6" />
       </p>
-      <hr/>
-      <h3>📖 Aprendendo & Interesses</h4>
+      <h3>🤖 Ciência de Dados & IA</h3>
       <p align="center">
-        <p>💬🧩 Linguagens, Frameworks & Engines:</p>
-        <img src="https://skillicons.dev/icons?i=ts,python,go,lua,kotlin&perline=5" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=unity,laravel,react&perline=3" />
-      </p>
-      <p align="center">
-        <p>🎨 Design e Criação:</p>
-        <img src="https://skillicons.dev/icons?i=blender,ps,ai,ae,figma&perline=5" />
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
+        <img src="https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generativa" />
       </p>
     </td>
   </tr>
 </table>
- 
+
 ---
- 
+
+## 🎨 Diferenciais
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=figma&perline=1" />
+      <h3>UX/UI Design & Prototipagem</h3>
+      <p>Design de interfaces, prototipagem e experiência do usuário com <b>Figma</b>.</p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://skillicons.dev/icons?i=ps,ai,ae,blender&perline=4" />
+      <h3>Design & Criação</h3>
+      <p>Photoshop, Illustrator, After Effects e Blender para conteúdo visual e motion.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## � Projetos
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| [Sistema-academico-simples](https://github.com/T4vinh0h/Sistema-academico-simples) | Sistema acadêmico com CRUD de alunos, cursos e matrículas | Electron, JavaScript, MySQL |
+| [meu-app-electron](https://github.com/T4vinh0h/meu-app-electron) | Aplicativo desktop com calculadora, ajuda e navegação | Electron, HTML/CSS/JS |
+| [CRUD_20-10-26](https://github.com/T4vinh0h/CRUD_20-10-26) | Sistema CRUD completo com login | JavaScript, MySQL |
+| [Calculadora-T.E.U---PLUS](https://github.com/T4vinh0h/Calculadora-T.E.U---PLUS) | Calculadora web didática | HTML/CSS/JS |
+| [Aprendizado_Dev](https://github.com/T4vinh0h/Aprendizado_Dev) | Repositório com todos os exercícios do técnico de DS | JavaScript, TypeScript, SQL, Go, Python, Lua |
+| [Portfolio_Dev_OtavioSantos](https://github.com/T4vinh0h/Portfolio_Dev_OtavioSantos) | Portfólio pessoal | HTML/CSS |
+
+---
+
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
@@ -103,7 +108,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, Inglês, um b
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
 </p>
- 
+
 ---
 <p align="center">
   <i>"Se você não pode explicar algo de maneira simples, você não entendeu bem."</i> <br>
