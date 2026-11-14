@@ -46,8 +46,12 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       <p align="center">
         <img src="https://img.shields.io/badge/Microsoft_Office_%26_Office_365-217346?style=for-the-badge&logo=microsoft-office&logoColor=white" alt="Pacote Office e Office 365" />
         <img src="https://img.shields.io/badge/Excel-Advanced-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
         <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello" />
+        <img src="https://img.shields.io/badge/Thunder_Client-1E1E2E?style=for-the-badge&logo=thunderclient&logoColor=white" alt="Thunder Client" />
+        <img src="https://img.shields.io/badge/Git_%26_GitHub_Avan%C3%A7ado-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git e GitHub Avançado" />
+        <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+        <img src="https://img.shields.io/badge/LLMs_%26_Assistentes_de_IA-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT, Claude, Gemini, Mistral, Grok e DeepSeek" />
+        <img src="https://img.shields.io/badge/Midjourney_%C2%B7_Leonardo_%C2%B7_Runway-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney, Leonardo e Runway" />
       </p>
     </td>
     <td align="center" valign="top" width="50%">
@@ -60,6 +64,28 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       <p align="center">
         <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Machine Learning" />
         <img src="https://img.shields.io/badge/IA_Generativa-412991?style=for-the-badge&logo=openai&logoColor=white" alt="IA Generativa" />
+      </p>
+      <h3>🛠️ Ferramentas & Produtividade</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+        <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white" alt="Obsidian" />
+        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
+        <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+      </p>
+      <h3>⚙️ Tooling, Dados & Deploy</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js_Scripts-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Scripts" />
+        <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
+        <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
+        <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=white" alt="pnpm" />
+        <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" alt="Yarn" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" alt="Supabase" />
+        <img src="https://img.shields.io/badge/Power_BI_%26_Apps_Script-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI e Apps Script" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
       </p>
     </td>
   </tr>
