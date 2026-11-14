@@ -44,7 +44,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       </p>
       <h3>🛠️ Ferramentas & Produtividade</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=git,github,office,excel,trello,thunderclient,canva,chatgpt,gemini,grok,deepseek&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=git,github,office,excel,trello,thunderclient,figma,canva,chatgpt,gemini,grok,deepseek&perline=8" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Midjourney_%C2%B7_Leonardo_%C2%B7_Runway-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney, Leonardo e Runway" />
@@ -75,41 +75,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
     </td>
   </tr>
 </table>
-
 ---
-
-## 🎨 Diferenciais
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://skills.syvixor.com/api/icons?i=figma&perline=1" />
-      <h3>UX/UI Design & Prototipagem</h3>
-      <p>Design de interfaces, prototipagem e experiência do usuário com <b>Figma</b>.</p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://skills.syvixor.com/api/icons?i=photoshop,illustrator,aftereffects,blender&perline=4" />
-      <h3>Design & Criação</h3>
-      <p>Photoshop, Illustrator, After Effects e Blender para conteúdo visual e motion.</p>
-    </td>
-  </tr>
-</table>
-
----
-
-## � Projetos
-
-| Projeto | Descrição | Stack |
-|---|---|---|
-| [Sistema-academico-simples](https://github.com/T4vinh0h/Sistema-academico-simples) | Sistema acadêmico com CRUD de alunos, cursos e matrículas | Electron, JavaScript, MySQL |
-| [meu-app-electron](https://github.com/T4vinh0h/meu-app-electron) | Aplicativo desktop com calculadora, ajuda e navegação | Electron, HTML/CSS/JS |
-| [CRUD_20-10-26](https://github.com/T4vinh0h/CRUD_20-10-26) | Sistema CRUD completo com login | JavaScript, MySQL |
-| [Calculadora-T.E.U---PLUS](https://github.com/T4vinh0h/Calculadora-T.E.U---PLUS) | Calculadora web didática | HTML/CSS/JS |
-| [Aprendizado_Dev](https://github.com/T4vinh0h/Aprendizado_Dev) | Repositório com todos os exercícios do técnico de DS | JavaScript, TypeScript, SQL, Go, Python, Lua |
-| [Portfolio_Dev_OtavioSantos](https://github.com/T4vinh0h/Portfolio_Dev_OtavioSantos) | Portfólio pessoal | HTML/CSS |
-
----
-
 ## 📊 Estatísticas do GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
