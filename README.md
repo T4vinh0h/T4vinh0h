@@ -79,10 +79,15 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
 ---
 
 ## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
-</div>
+<table align="center">
+  <tr>
+    <td><img src="https://github-stats-extended.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" /></td>
+    <td><img src="https://streak-stats.demolab.com?user=T4vinh0h&theme=dark&hide_border=true" height="180" /></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><img src="https://github-stats-extended.vercel.app/api/top-langs/?username=T4vinh0h&theme=dark&hide_border=true&layout=compact" height="180" /></td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-activity-graph.luckylinux.dev/graph?username=T4vinh0h&theme=tokyo-night&hide_border=true&custom_title=T4vinh0h%20Activity%20Graph&area=true&area_color=58A6FF" alt="Activity Graph" />
 </p>
