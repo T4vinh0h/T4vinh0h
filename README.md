@@ -44,7 +44,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       </p>
       <h3>🛠️ Ferramentas & Produtividade</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=github,office,excel,trello,thunderclient,figma,canva,chatgpt,gemini,grok,deepseek&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=github,office,excel,trello,thunderclient,figma,canva&perline=8" />
       </p>
       <h3>🛠️ Inteligências Artificiais</h3>
       <p align="center">
