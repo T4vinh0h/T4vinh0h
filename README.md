@@ -44,7 +44,11 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       </p>
       <h3>🛠️ Ferramentas & Produtividade</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=git,github,office,excel,trello,thunderclient,figma,canva,chatgpt,gemini,grok,deepseek&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=github,office,excel,trello,thunderclient,figma,canva,chatgpt,gemini,grok,deepseek&perline=8" />
+      </p>
+      <h3>🛠️ Inteligências Artificiais</h3>
+      <p align="center">
+        <img src="https://skills.syvixor.com/api/icons?i=chatgpt,gemini,grok,deepseek&perline=8" />
       </p>
       <p align="center">
         <img src="https://img.shields.io/badge/Midjourney_%C2%B7_Leonardo_%C2%B7_Runway-000000?style=for-the-badge&logo=midjourney&logoColor=white" alt="Midjourney, Leonardo e Runway" />
