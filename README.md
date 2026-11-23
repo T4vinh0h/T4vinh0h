@@ -36,7 +36,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       <h2>✅ Domínio</h2>
       <h3>💻 Desenvolvimento</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,nodejs,npm,git,vscode&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=html,css,js,ts,nodejs,npm,git,gitbash,vscode&perline=8" />
       </p>
       <h3>🖥️ Desktop & Dados</h3>
       <p align="center">
@@ -44,7 +44,7 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       </p>
       <h3>🛠️ Ferramentas & Produtividade</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=github,office,excel,trello,thunderclient,figma,canva&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=github,markdown,office,excel,trello,thunderclient,postman,notion,figma,canva&perline=8" />
       </p>
       <h3>🛠️ Inteligências Artificiais</h3>
       <p align="center">
@@ -58,7 +58,10 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       <h2>🚀 Em Aprendizado</h2>
       <h3>💻 Linguagens & Frameworks</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=react,angular,java,python,flutter,tailwind&perline=6" />
+        <img src="https://skills.syvixor.com/api/icons?i=python,react,tailwind&perline=6" />
+        <!--
+        <img src="https://skills.syvixor.com/api/icons?i=java,dart,angular,flutter,&perline=6" /> // tenho interesse em aprender essas linguagens, entretanto, enxergo isso em até 10 anos de experiência. 
+        -->
       </p>
       <h3>🤖 Ciência de Dados & IA</h3>
       <p align="center">
@@ -67,14 +70,11 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
       </p>
       <h3>🛠️ Ferramentas & Produtividade</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=postman,docker,obsidian,notion,markdown,linux,bash&perline=8" />
-      </p>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Linear-5E6AD2?style=for-the-badge&logo=linear&logoColor=white" alt="Linear" />
+        <img src="https://skills.syvixor.com/api/icons?i=docker,linux,bash&perline=8" />
       </p>
       <h3>⚙️ Tooling, Dados & Deploy</h3>
       <p align="center">
-        <img src="https://skills.syvixor.com/api/icons?i=nodejs,pnpm,yarn,vite,eslint,prettier,supabase,powerbi,vercel,githubactions&perline=8" />
+        <img src="https://skills.syvixor.com/api/icons?i=powerbi,pnpm,yarn,vite,eslint,prettier,supabase,vercel&perline=8" />
       </p>
     </td>
   </tr>
