@@ -101,14 +101,31 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
 ---
 
 ## 📊 Estatísticas do GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vinh0h&theme=dark&hide_border=true&layout=compact" height="180" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4vinh0h&theme=dark&hide_border=true" alt="Profile Details" />
-</p>
+
+## 📊 Estatísticas do GitHub
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=T4vinh0h&show_icons=true&theme=dark&hide_border=true&count_private=true" height="180" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=T4vinh0h&theme=dark&hide_border=true" height="180" />
+    </td>
+  </tr>
+</table>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T4vinh0h&theme=dark&hide_border=true&layout=compact" height="180" />
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=T4vinh0h&theme=dark&hide_border=true" alt="Profile Details" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 <p align="center">
