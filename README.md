@@ -102,8 +102,6 @@ Nas horas vagas, divido meu tempo entre games, basquete, guitarra, inglês, um b
 
 ## 📊 Estatísticas do GitHub
 
-## 📊 Estatísticas do GitHub
-
 <table align="center" width="100%">
   <tr>
     <td align="center" valign="top" width="50%">
